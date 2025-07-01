@@ -1,6 +1,6 @@
  ![App Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlseWloc2IwMGg3NGlrZnZ0OG5udTdmamwzZW1udDlqd3Q2bzl3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 
-##👋 Hi, I'm Ayman
+- 👋 Hi, I'm Ayman
 
 🎓 I'm a software engineering student with a passion for building web applications, learning new technologies, and solving real-world problems with code.
 
